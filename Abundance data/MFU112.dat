@@ -1,0 +1,25 @@
+# De Castro et al. (2016), MNRAS, 459, 4299
+
+Object         MFU112    
+Mass           3.00
+logL           2.23
+logAge         8.70
+Teff           4900.00
+logg           2.40
+[FeI/H]        -0.43     0.16
+[FeII/H]       -0.48     0.21
+[Na/Fe]        0.40
+[Mg/Fe]        0.33
+[Al/Fe]        0.37
+[Si/Fe]        0.13
+[Ca/Fe]        0.26
+[Ti/Fe]        0.09
+[Cr/Fe]        0.00
+[Ni/Fe]        0.07
+[Y/Fe]         0.99
+[Zr/Fe]        1.26
+[La/Fe]        2.38
+[Ce/Fe]        1.62
+[Nd/Fe]        1.39
+[s/Fe]         1.53
+[hs/ls]        0.67

@@ -1,0 +1,25 @@
+# De Castro et al. (2016), MNRAS, 459, 4299
+
+Object         HD120620  
+Mass           2.00
+logL           1.19
+logAge         9.00
+Teff           5000.00
+logg           3.30
+[FeI/H]        -0.14     0.16
+[FeII/H]       -0.15     0.21
+[Na/Fe]        0.12
+[Mg/Fe]        0.18
+[Al/Fe]        0.20
+[Si/Fe]        0.20
+[Ca/Fe]        0.14
+[Ti/Fe]        0.20
+[Cr/Fe]        0.03
+[Ni/Fe]        0.07
+[Y/Fe]         1.31
+[Zr/Fe]        1.26
+[La/Fe]        2.01
+[Ce/Fe]        1.71
+[Nd/Fe]        1.39
+[s/Fe]         1.54
+[hs/ls]        0.42
