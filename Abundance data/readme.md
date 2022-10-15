@@ -1,20 +1,4 @@
-This is the repository of abundance data for stars. 
-
-A master list of all stars contained in the database will be added in the future. Currently 10 objects are provided as an example. These are:
-
-- BD-083194
-- BD-094337
-- BD-142678
-- CD-272233
-- CD-298822
-- CD-308774
-- CD-38585
-- CD-422048
-- CD-538144
-- CD-611941
-
-
-The data for these has been taken from De Castro et al. (2016), MNRAS, 459, 4299.
+This is the repository of abundance data for stars. A list of all stars currently in the database is included in the file "MasterList.txt".
 
 
 *Instructions for adding data:*
