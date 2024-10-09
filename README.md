@@ -1,6 +1,6 @@
 # Barium-Star-Repository
 
-This repository is designed to be an archive of data for barium stars, developed for the ChETEC-INFRAIA network. It contains three separate directories, which are:
+This repository is designed to be an archive of data for barium stars, developed for the ChETEC-INFRA network. It contains three separate directories, which are:
 
 - **Stellar parameters and abundance data**, including data collected from literature sources.
 - **Radial velocity data**
